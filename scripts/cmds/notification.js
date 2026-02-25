@@ -65,7 +65,7 @@ module.exports = {
     const formSend = {
       body:
 `🎀 ━━━━━━━ ✧ ━━━━━━━ 🎀
-       ⚜️  𝐁𝐎𝐓 𝐍𝐎𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍  ⚜️
+       ⚜️  𝐁𝐎𝐓 𝐍𝐎𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 𝑂𝑊𝑁𝐸𝑅 𝙴𝚅𝙰𝙽  ⚜️
 🎀 ━━━━━━━ ✧ ━━━━━━━ 🎀
 
 👤  From: ${senderName}
@@ -75,7 +75,7 @@ module.exports = {
 ${msgText || "(media only)"}
 ────────────────────────────
 
-💌  𝐍𝐄𝐆𝐀𝐓𝐈𝐕𝐄 𝐁𝐎𝐓 𝐁𝐘 𝐍𝐗 💫`,
+💌  𝐍𝐄𝐆𝐀𝐓𝐈𝐕𝐄 𝐁𝐎𝐓 𝐵𝑦 𝐸𝑣𝑎𝑛   💫`,
       attachment: streamAttachments
     };
 
