@@ -48,14 +48,14 @@ module.exports = {
 
     const info = `
 ⫷          O᩶w᩶n᩶e᩶r᩶ I᩶n᩶f᩶o᩶          ⫸
-┃ ☁️ 𝗡𝗮𝗺𝗲:          Máybè Nx 
-┃ ⚙️ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲:     💋♡your baby♡💌🦋 くめ
+┃ ☁️ 𝗡𝗮𝗺𝗲:           𝙴𝚅𝙰𝙽 
+┃ ⚙️ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲:     ẔΛ尺Λ ϦϦẔ🚩⚜️
 ┃ 🎂 𝗔𝗴𝗲:            18
 ┃ 🧠 𝗖𝗹𝗮𝘀𝘀:          Continues work
 ┃ ❤️ 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻:      Single 
 ┃ ♂️ 𝗚𝗲𝗻𝗱𝗲𝗿:        Male
 ┃ 🏠 𝗙𝗿𝗼𝗺:          Narsingdi 
-┃ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:     https://m.me/nx210.2.0.is.back
+┃ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:     https://www.facebook.com/share/17KNCoduZt/
 ♡ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐦𝐲 𝐛𝐨𝐭 ♡
     `.trim();
 
